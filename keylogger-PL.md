@@ -1,4 +1,3 @@
-﻿Wiktoria Lewicka
 Implementacja keyloggera jako sterownik w systemie Windows
 
 Część pojęć może być błędnie przetłumaczona albo zostawiona bez tłumaczenia
